@@ -1,0 +1,32 @@
+.gitignore## Visual Studio Temp Files
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## .NET Core / .NET 5+
+bin/
+obj/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## IDE - VS Code
+.vscode/
+
+## OS Files
+.DS_Store
+Thumbs.db
